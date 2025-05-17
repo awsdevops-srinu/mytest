@@ -5,3 +5,6 @@ welcome
 format
 this is from remote
 remote line is here
+ok from local
+text from local
+
