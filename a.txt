@@ -1,3 +1,7 @@
 hello
 hi
 bye
+welcome
+format
+this is from remote
+remote line is here
